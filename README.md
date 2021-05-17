@@ -16,8 +16,9 @@
 
 # Setup
 - Clone the repository.
-```bash
-git clone https://github.com/SairajGaonkar/LocalNewsApp.git```
+```bash 
+git clone https://github.com/SairajGaonkar/LocalNewsApp.git
+```
 - Go to the project directory.
 ```bash
 cd LocalNews
