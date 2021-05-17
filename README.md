@@ -23,6 +23,13 @@ git clone https://github.com/SairajGaonkar/LocalNewsApp.git
 ```bash
 cd LocalNews
 ```
+- Update config.py in backend branch.
+```bash
+access_key = '--'
+access_secret = '--'
+consumer_key = '--'
+consumer_secret = '--'
+```
 
 ## Backend
 - Use NewsAPI-BackEnd branch to get the backend code.
