@@ -27,7 +27,7 @@ cd LocalNews
 ## Backend
 - Use NewsAPI-BackEnd branch to get the backend code.
 ```bash
-git checkout NewsAPI-BackEnd
+git checkout backend
 ```
 - Create virtual environment.
 ```bash
